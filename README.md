@@ -25,4 +25,4 @@ Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna BRIMO di G
 ![Sentiment Ulasan Berdasarkan Skor](figures/sentiment_ulasan_berdasarkan_skor.png)
 
 ## Lisensi
-Bebas digunakan dan dimodifikasi sesuai kebutuhan dengan Izin Author.
+Bebas digunakan dan dimodifikasi sesuai kebutuhan dengan Izin Author. digunakan untuk penelitian tugas akhir RISWAN.
