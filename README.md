@@ -8,15 +8,6 @@ Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna BRIMO di G
 - Klasifikasi sentimen berbasis model SVM
 - Laporan singkat tentang hasil analisis
 
-## Instalasi
-1. Clone repositori ini.
-2. Pastikan Python 3.x sudah terpasang.
-3. Jalankan `pip install -r requirements.txt`.
-
-## Penggunaan
-1. Jalankan skrip utama untuk mengambil dan mengolah data.
-2. Akses hasil analisis yang disimpan sebagai laporan atau visualisasi grafis.
-
 ## Visualisasi
 ### Distribusi Ulasan Berdasarkan Bulan Pembuatan Ulasan
 ![Distribusi Ulasan Berdasarkan Bulan Pembuatan Ulasan](figures/distribusi_ulasan_berdasarkan_bulan_pembuatan_ulasan.png)
